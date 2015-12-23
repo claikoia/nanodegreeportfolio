@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Nanodegree Portfolio</string>
+    <string name="action_settings">Settings</string>
+    <string name="spotify">Stream Spotify</string>
+    <string name="scores">NFL Scores</string>
+    <string name="library">Library</string>
+    <string name="build">Build It Bigger</string>
+    <string name="xyz">XYZ Reader</string>
+    <string name="capstone">Capstone</string>
+</resources>
